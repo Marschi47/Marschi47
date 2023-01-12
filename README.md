@@ -28,6 +28,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/marschi/marschi/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/marschi47/marschi47/blob/output/snake.svg" alt="Snake animation" />
 
 ###
