@@ -1,3 +1,1 @@
-![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maschi47)](https://github.com/marschi47/github-readme-stats)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+and+welcome+to+my+Profile!)](https://git.io/typing-svg)
