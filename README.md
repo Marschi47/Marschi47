@@ -11,7 +11,7 @@
 
 ###
 
-<img align="right" height="150" src="https://github.com/Marschi47/Marschi47/blob/main/dinosquare.gif?raw=true"  />
+<img align="right" height="150" src="https://github.com/Marschi47/Marschi47/blob/main/dino.gif?raw=true"  />
 
 ###
 
@@ -23,11 +23,5 @@
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height="35" alt="Reddit Logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/marschi47/marschi47/blob/output/snake.svg" alt="Snake animation" />
 
 ###
