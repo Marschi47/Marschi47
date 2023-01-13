@@ -11,10 +11,6 @@
 
 ###
 
-<img align="right" height="150" src="https://github.com/Marschi47/Marschi47/blob/main/dino.gif?raw=true"  />
-
-###
-
 <div align="left">
   <a href="https://tiktok.com/@marschi.gq" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" height="35" alt="TikTok Logo"  />
