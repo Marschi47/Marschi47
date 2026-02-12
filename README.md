@@ -10,14 +10,3 @@
 </div>
 
 ###
-
-<div align="left">
-  <a href="https://tiktok.com/@marschixyz" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" height="35" alt="TikTok Logo"  />
-  </a>
-  <a href="https://www.reddit.com/user/dasMarschi" target="_blank">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height="35" alt="Reddit Logo"  />
-  </a>
-</div>
-
-###
